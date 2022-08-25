@@ -5,9 +5,8 @@
     <classes>
       <class name="com.iris22a.ProductTests">
         <methods>
+          <include name="verifySearchResultForPoloMen"/>
           <include name="setUp"/>
-          <include name="VerifyItemCountOfCasualShirts"/>
-          <include name="tearDown"/>
         </methods>
       </class> <!-- com.iris22a.ProductTests -->
     </classes>
